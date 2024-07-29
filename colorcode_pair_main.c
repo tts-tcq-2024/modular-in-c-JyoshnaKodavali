@@ -9,7 +9,7 @@ void PrintColorReferenceManual(void) {
     }
 }
 
-int main() {
+int main() { 
     testNumberToPair(4, WHITE, BROWN);
     testNumberToPair(5, WHITE, SLATE);
 
