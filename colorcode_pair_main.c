@@ -1,4 +1,4 @@
-#include "paircolorcode_main.h"
+#include "colorcode_pair_main.h"
 
 #include <stdio.h>
 #include <assert.h> 
