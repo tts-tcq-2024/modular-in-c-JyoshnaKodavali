@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <assert.h> 
-#include "Pair_Colors.h"
+#include "colorcode_pair.h"
 
 int main() {
     testNumberToPair(4, WHITE, BROWN);
