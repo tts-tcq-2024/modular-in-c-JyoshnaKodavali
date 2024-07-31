@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Pair_Colors.h"  /* Header file to include interfaces and declarations*/
+#include "colorcode_pair.h"  /* Header file to include interfaces and declarations*/
 
 const char* MajorColorNames[] = {
     "White", "Red", "Black", "Yellow", "Violet"
