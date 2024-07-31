@@ -1,4 +1,4 @@
-#include "Pair_Colors.h"
+#include "colorcode_pair.h"
 
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
