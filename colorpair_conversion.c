@@ -42,4 +42,3 @@ void PrintReferenceManual() {
         printf("%d: %s\n", pairNumber, colorPairNames);
     }
 }
-
